@@ -1,7 +1,7 @@
 "use client";
 import SortableList, {SortableItem} from "react-easy-sort";
 import {arrayMoveImmutable} from "array-move";
-import React, {useState} from "react";
+import {useState} from "react";
 import Image from "next/image";
 
 const SortableGallery = () => {
